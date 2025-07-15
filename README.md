@@ -30,9 +30,20 @@ Saat dijalankan, program ini akan mencetak:
 
 ## ✨ Contoh Output
 
-```bash
+<pre><code>
 157
 Hello World
 true
 Halo! Nama saya Syifa Fauziyah Arizal. Saya berumur 20 tahun. Hari ini saya sedang belajar JavaScript
 Hari ini tanggal 5/6/2025, pukul 9:07
+</code></pre>
+
+## 📌 Author
+  
+**Syifa Fauziyah Arizal**  
+[GitHub](https://github.com/syfaarizal) • [Portfolio](https://syfaarizal.github.io/sicoder-main-portfolio/)
+
+---
+
+> “Logic might be binary, but the way we treat users shouldn't be.”  
+> Let’s go to [Day 2: Kalkulator Umur](https://github.com/syfaarizal/js-age-calculator)
