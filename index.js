@@ -1,14 +1,14 @@
 // Challenge Day 1
 const name = "Syifa Fauziyah Arizal";
 let age = 20;
-let status = "belajar JavaScript";
-console.log(`Halo! Nama saya  ${name}. Saya berumur ${age} tahun. Hari ini saya sedang ${status}`);
+let status = "learning JavaScript";
+console.log(`Hello!\nMy name is  ${name}.\nI am ${age} years old.\nToday I'm ${status}.`);
 
 const now = new Date();
-const tanggal = now.getDate();
-const bulan = now.getMonth() + 1;
-const tahun = now.getFullYear();
-const jam = now.getHours();
-const menit = now.getMinutes();
+const day = now.getDate();
+const month = now.getMonth() + 1;
+const year = now.getFullYear();
+const hours = now.getHours();
+const minutes = now.getMinutes();
 
-console.log(`Hari ini tanggal ${tanggal}/${bulan}/${tahun}, pukul ${jam}:${menit < 10 ? "0" + menit : menit}`);
+console.log(`Today is ${day}/${month}/${year}, at ${hours}:${minutes < 10 ? "0" + minutes : minutes}`);

@@ -1,41 +1,41 @@
-# 🧪 JavaScript Challenge — Day 1: Cetak Nama dan Tanggal
+# � JavaScript Challenge — Day 1: Print Name and Date
 
-Ini adalah bagian dari tantangan harian JavaScript aku (Code Sprint 30), di mana aku membangun pemahaman dasar JavaScript sambil langsung praktik menulis kode.
+This is part of my daily JavaScript challenge (Code Sprint 30), where I build fundamental JavaScript understanding while practicing coding.
 
-## 🎯 Tujuan Challenge
+## 🎯 Challenge Goals
 
-- Mengenal dan menggunakan tipe data dasar (`number`, `string`, `boolean`)
-- Mencetak output ke console dengan `console.log()`
-- Belajar membuat dan menampilkan waktu secara dinamis dengan objek `Date`
-- Melatih penggunaan template literal `${}` dan operator ternary
+- Learn and use basic data types (`number`, `string`, `boolean`)
+- Print output to console using `console.log()`
+- Learn to create and display dynamic time using the `Date` object
+- Practice using template literals `${}` and ternary operator
 
-## 💻 Output Program
+## 💻 Program Output
 
-Saat dijalankan, program ini akan mencetak:
-- Nilai dari tipe data dasar
-- Kalimat personal seperti nama dan status belajar
-- Tanggal dan waktu saat ini dalam format yang **readable** (misalnya: `05/06/2025, pukul 09:07`)
+When executed, this program will print:
+- Values of basic data types
+- Personal statements like name and learning status
+- Current date and time in a **human-readable** format (e.g., `05/06/2025 at 09:07 AM`)
 
-## 📦 File Terkait
+## 📦 Related Files
 
-- `index.html` — File HTML sederhana untuk menautkan `index.js`
-- `index.js` — Berisi kode JavaScript utama dari challenge ini
+- `index.html` — Simple HTML file to link `index.js`
+- `index.js` — Contains the main JavaScript code for this challenge
 
-## 🧠 Konsep yang Dipelajari
+## 🧠 Concepts Learned
 
-- Variabel dengan `var`, `let`, `const`
-- Template literal (`` `Hello, ${name}` ``)
-- Objek `Date` dan method-nya (`getDate()`, `getMonth()`, `getHours()`, dll.)
-- Format waktu dengan ternary operator untuk leading zero
+- Variables with `var`, `let`, `const`
+- Template literals (`` `Hello, ${name}` ``)
+- `Date` object and its methods (`getDate()`, `getMonth()`, `getHours()`, etc.)
+- Time formatting with ternary operator for leading zero
 
-## ✨ Contoh Output
+## ✨ Sample Output
 
 <pre><code>
 157
 Hello World
 true
-Halo! Nama saya Syifa Fauziyah Arizal. Saya berumur 20 tahun. Hari ini saya sedang belajar JavaScript
-Hari ini tanggal 5/6/2025, pukul 9:07
+Hello! My name is Syifa Fauziyah Arizal. I am 20 years old. Today I'm learning JavaScript
+Today's date is 5/6/2025 at 9:07 AM
 </code></pre>
 
 ## 📌 Author
