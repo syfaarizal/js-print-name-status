@@ -46,4 +46,4 @@ Today's date is 5/6/2025 at 9:07 AM
 ---
 
 > “Logic might be binary, but the way we treat users shouldn't be.”  
-> Let’s go to [Day 2: Kalkulator Umur](https://github.com/syfaarizal/js-age-calculator)
+> Let’s go to [Day 2: Age Calculator](https://github.com/syfaarizal/js-age-calculator)
